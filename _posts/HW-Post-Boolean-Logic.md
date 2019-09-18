@@ -23,3 +23,7 @@ Booleans are statements that are either true or false
      - short-circuit AND uses `&&`
      - equal to uses `==`
      - NOT equal to uses `!=`
+
+## Truth Table
+![_config.yml]({{ site.baseurl }}/Boolean-truth-table.png)
+

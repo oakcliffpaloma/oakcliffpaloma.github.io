@@ -25,7 +25,7 @@ Booleans are statements that are either true or false
      - NOT equal to uses `!=`
 
 ## Truth Table
-![_config.yml]({{ site.baseurl }}/images/Boolean-truth-table.png)
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
+
+![_config.yml]({{ site.baseurl }}/images/Boolean-truth-table.png)
 
